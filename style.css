@@ -1,0 +1,41 @@
+body{
+    font-family:sans-serif;
+    background-color:#FFFF00;
+}
+h2{
+    color:#77FF99;
+}
+.header{
+    background-color:#9944C8;
+    display:flex;
+    justify-content: space-evenly;
+}
+.grid{
+    background-color:#D23100;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.item{
+    background-color:rgb(255, 145, 0);
+    display:flex;
+    justify-content:center;
+}
+.info{
+    background-color:rgb(0, 17, 255);
+    display:flex;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color:#FFFF00;
+}
+.labels{
+    background-color:#FFFF00;
+    display:flex;
+    justify-content:space-between
+}
+.label{
+    background-color:#FFFF00;
+    display:flex;
+    justify-content:center
+}
